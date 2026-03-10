@@ -21,6 +21,6 @@ This repository is a gathered selection of visual aesthetics that I use in my da
 ## 🚀 Usage & Setup
 You can use these wallpapers for your desktop environments (Hyprland, i3wm, GNOME, etc.) or mobile devices.
 
-1. **Clone the collection:**
+  **Clone the collection:**
    ```bash
    git clone [https://github.com/bilalElGohary/All-PIC.git](https://github.com/bilalElGohary/All-PIC.git)
