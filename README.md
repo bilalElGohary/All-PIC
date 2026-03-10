@@ -4,7 +4,7 @@ A personal collection of high-quality wallpapers curated for clean desktop setup
 
 <p align="center">
   <img src="./gruvbox-wallpapers/forest.jpg" width="45%" />
-  <img src="./Kojiro.png" width="45%" />
+  <img src="./flower.jpg" width="45%" />
 </p>
 
 ## 🌌 About the Collection
