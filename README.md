@@ -3,7 +3,7 @@
 A personal collection of high-quality wallpapers curated for clean desktop setups, minimalist environments, and creative inspiration. 
 
 <p align="center">
-  <img src="./gruvbox-wallpapers/forest" width="45%" />
+  <img src="./gruvbox-wallpapers/forest.jpg" width="45%" />
   <img src="./Kojiro.png" width="45%" />
 </p>
 
